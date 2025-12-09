@@ -1,0 +1,19 @@
+# Know Your Teacher {.unnumbered}
+
+![](images/amita.png)
+
+I am Dr Amita Sharma having 18+ Yrs of experience in teaching MBA students. I am BSc in Mathematics, Physics and Chemsitry; MBA in Marketing, PhD and Post Doc in Machine Learning and Mental Health.\
+\
+For more details, CV is attached:\
+\
+
+```{=html}
+
+<object data="data/CV.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+
+<p>It appears you don't have a PDF plugin for this browser. No biggie... you can <a href="data/CV.pdf">click here to download the PDF file.</a></p>
+
+</object>
+```
+
+## Teaching Assitants

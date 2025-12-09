@@ -1,0 +1,48 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  downloads: [pdf]
+  title: "Data Science for Agribusiness"
+  author: "Dr Amita Sharma"
+  date: "10-Aug-2025"
+  chapters: 
+      - href: about.qmd
+        text: Know Your Teacher
+      - href: index.qmd
+        text: DSA Course Information
+      - href: unit_1.qmd
+        text: Introduction to Data Science for Agribusiness
+      - href: unit_2.qmd
+        text: Fundamental of Research
+      - href: unit_3.qmd
+        text: Machine Learning Part 1
+      - href: unit_4.qmd
+        text: Machine Learning Part 2
+      - href: unit_5.qmd
+        text: Deep Learning Part 1
+      - href: unit_6.qmd
+        text: Deep Learning Part 2
+      - href: projects.qmd
+        text: Data Science Projects
+      - href: resources.qmd
+        text: eBooks, Data Sources, Podcasts
+      - href: errors.qmd
+        text: Error in Code Correction
+      - href: references.qmd
+        text: References
+      - href: contact.qmd
+        text: Contact
+        
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf: 
+    documentclass: scrreprt
+    css: styles.css
+    toc: true
+
+editor: visual

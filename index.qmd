@@ -1,0 +1,41 @@
+# Data Science for Agribusiness
+
+## Syllabus, Schedule, Student Performance Metrics and Expectations from Students
+
+
+![](images/dsa.jpeg) *Source: Generated with Gemini ai*
+
+## Syllabus
+
+```{=html}
+<object data="data/SYLLABUS.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="data/SYLLABUS.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+
+## Schedule
+
+| Weekday   | Time Slot        | Practice     | Assignment Submission         |
+|-----------|------------------|--------------|-------------------------------|
+| Monday    | 02:50 PM – 3:40 PM | Live Session | Following Saturday by 3:00 PM |
+| Wednesday | 11:50 AM – 12:40 PM  | Live Session -1 | Following Saturday by 3:00 PM |
+| Wednesday | 12:40 PM – 01:30 PM  | Live Session -2 | Following Saturday by 3:00 PM |
+
+## Student Performance Metrics
+
+## Expectations from Students
+
+Data Science for Agribusiness is an evolving subject due to recent development in generation of data and using it for business application is growing day by day. Hence, students should not limit their learning and practice only to the course content.
+
+I encourage students to refer to the free and paid resources available through online and offline media to broaden their understanding and practice of the subject.
+
+We have books in our physical library and we also have e-library subscription of EBSCO, IndiaStats. Exploit the research papers and books available to the maximum. Students should learn the content in the Live Sessions and practice the code and share the output by the following Saturday of the week. If you delay it, you may loose the momentum and lag behind.
+
+Students must carry following items for attending LIVE SESSIONS --
+
+-   Laptop
+-   wifi Connection/Elabled
+-   Notebook
+-   Pen
